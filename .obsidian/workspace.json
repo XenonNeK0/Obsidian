@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4dde31c1a76c9cd",
+        "id": "e011b8569b670c58",
         "type": "tabs",
         "children": [
           {
-            "id": "4001340a5c3ebe9d",
+            "id": "b85e1256d15bfeac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Idea/基于人工智能的第三磨牙术前决策.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -161,10 +161,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "4001340a5c3ebe9d",
+  "active": "b85e1256d15bfeac",
   "lastOpenFiles": [
-    "Oral/Cariology And Endodontics/Caries.md",
     "Idea/基于人工智能的第三磨牙术前决策.md",
+    "Oral/Cariology And Endodontics/Caries.md",
     "Idea",
     "Oral/Cariology And Endodontics/www.baidu.com.md",
     "Oral/Cariology And Endodontics",
