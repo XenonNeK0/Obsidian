@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oral/Cariology And Endodontics/Caries.md",
+                "file": "Idea/基于人工智能的第三磨牙术前决策.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caries"
+              "title": "基于人工智能的第三磨牙术前决策"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oral/Cariology And Endodontics/Caries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Caries 的反向链接列表"
             }
           },
           {
@@ -163,6 +164,9 @@
   "active": "4001340a5c3ebe9d",
   "lastOpenFiles": [
     "Oral/Cariology And Endodontics/Caries.md",
+    "Idea/基于人工智能的第三磨牙术前决策.md",
+    "Idea",
+    "Oral/Cariology And Endodontics/www.baidu.com.md",
     "Oral/Cariology And Endodontics",
     "Oral",
     "欢迎.md",
