@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea/基于人工智能的第三磨牙术前决策.md",
-                "mode": "preview",
+                "file": "Code/Web/网站设计.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基于人工智能的第三磨牙术前决策"
+              "title": "网站设计"
             }
           }
         ]
@@ -163,7 +163,11 @@
   },
   "active": "b85e1256d15bfeac",
   "lastOpenFiles": [
+    "Code/Web/HTML.md",
+    "Code/Web/网站设计.md",
     "Idea/基于人工智能的第三磨牙术前决策.md",
+    "Code/Web",
+    "Code",
     "Oral/Cariology And Endodontics/Caries.md",
     "Idea",
     "Oral/Cariology And Endodontics/www.baidu.com.md",
