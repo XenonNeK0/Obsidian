@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Web/网站设计.md",
+                "file": "Linux/系统配置命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网站设计"
+              "title": "系统配置命令"
             }
           }
         ]
@@ -164,6 +164,8 @@
   "active": "b85e1256d15bfeac",
   "lastOpenFiles": [
     "Code/Web/HTML.md",
+    "Linux/系统配置命令.md",
+    "Linux",
     "Code/Web/网站设计.md",
     "Idea/基于人工智能的第三磨牙术前决策.md",
     "Code/Web",
