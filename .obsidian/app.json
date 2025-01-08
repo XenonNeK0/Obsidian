@@ -3,5 +3,10 @@
   "vimMode": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "01 Attachment",
-  "showRibbon": false
+  "showRibbon": false,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "readableLineLength": true
 }

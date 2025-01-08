@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "baf9393884e62888",
+        "id": "d2d4b6515aa04be4",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f260b581531baf",
+            "id": "a3dc0ef9e9128754",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/工作流.md",
+                "file": "Paper/毕业论文写作/工作流.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b72d185e025305c",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oral/Cariology And Endodontics/龋病/龋病的病因.md",
+                "file": "Paper/毕业论文写作/工作流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "龋病的病因 的反向链接列表"
+              "title": "工作流 的反向链接列表"
             }
           },
           {
@@ -138,9 +137,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Paper/毕业论文写作/工作流.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "工作流 的大纲"
             }
           }
         ]
@@ -158,18 +159,26 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "d5f260b581531baf",
+  "active": "a3dc0ef9e9128754",
   "lastOpenFiles": [
-    "Paper/毕业论文大纲.md",
-    "Paper/工作流.md",
-    "Linux/NeoVim/LazyVim/Pyright安装.md",
+    "Paper/毕业论文写作/工作流.md",
+    "未命名",
+    "Paper/毕业论文写作/正文.md",
     "Idea/基于人工智能的第三磨牙术前决策.md",
-    "Paper",
     "Code/Design/TheWorld/Crash/雪崩城市设计.md",
     "Linux/系统配置命令.md",
+    "Linux/NeoVim/LazyVim/Pyright安装.md",
+    "Linux/NeoVim/LazyVim/快捷指令.md",
+    "Paper/毕业论文写作",
+    "Paper/格式转换.md",
+    "Paper/毕业论文写作/毕业论文大纲.md",
+    "Paper/正文+(副本).docx",
+    "Paper/1.md",
+    "Paper",
     "Code/Design/TheWorld/Crash/用到的代码.md",
     "Code/Design/TheWorld/Crash",
     "Code/Web/网站设计.md",
@@ -180,10 +189,7 @@
     "Linux/NeoVim",
     "Oral/Cariology And Endodontics/龋病/牙体牙髓病学（第5版）-周学东编-2020.7.pdf",
     "Code/Web/HTML.md",
-    "Oral/Cariology And Endodontics/龋病",
     "Oral/Cariology And Endodontics/Caries.md",
-    "Linux",
-    "Code/Web",
     "Oral/Cariology And Endodontics/www.baidu.com.md",
     "欢迎.md",
     "未命名/未命名.md"
