@@ -4,5 +4,19 @@
       "modifiers": [],
       "key": "F12"
     }
+  ],
+  "workspaces:save": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "workspaces:open-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F12"
+    }
   ]
 }

@@ -6,6 +6,7 @@
       {
         "id": "d2d4b6515aa04be4",
         "type": "tabs",
+        "dimension": 36.851851851851855,
         "children": [
           {
             "id": "a3dc0ef9e9128754",
@@ -19,6 +20,27 @@
               },
               "icon": "lucide-file",
               "title": "工作流"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eeef9699f5767701",
+        "type": "tabs",
+        "dimension": 63.148148148148145,
+        "children": [
+          {
+            "id": "ea0abe13aac975a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/毕业论文写作/正文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "正文"
             }
           }
         ]
@@ -77,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7b72d185e025305c",
@@ -93,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/毕业论文写作/工作流.md",
+                "file": "Paper/毕业论文写作/正文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "工作流 的反向链接列表"
+              "title": "正文 的反向链接列表"
             }
           },
           {
@@ -138,13 +161,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/毕业论文写作/工作流.md"
+                "file": "Paper/毕业论文写作/正文.md"
               },
               "icon": "lucide-list",
-              "title": "工作流 的大纲"
+              "title": "正文 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,11 +187,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a3dc0ef9e9128754",
+  "active": "ea0abe13aac975a0",
   "lastOpenFiles": [
     "Paper/毕业论文写作/工作流.md",
-    "未命名",
     "Paper/毕业论文写作/正文.md",
+    "未命名",
     "Idea/基于人工智能的第三磨牙术前决策.md",
     "Code/Design/TheWorld/Crash/雪崩城市设计.md",
     "Linux/系统配置命令.md",
