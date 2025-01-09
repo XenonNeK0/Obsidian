@@ -11,12 +11,14 @@
             "id": "e1ec5b1cf9c4e8dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Paper/可以参考的文献/下颌升支创伤性囊肿病例报告.pdf"
+                "file": "Paper/毕业论文写作/正文.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "下颌升支创伤性囊肿病例报告"
+              "icon": "lucide-file",
+              "title": "正文"
             }
           }
         ]
@@ -164,6 +166,10 @@
   },
   "active": "e1ec5b1cf9c4e8dd",
   "lastOpenFiles": [
+    "Paper/毕业论文写作/毕业论文大纲.md",
+    "Paper/毕业论文写作/正文.md",
+    "Paper/毕业论文写作/工作流.md",
+    "Paper/可以参考的文献/下颌升支创伤性囊肿病例报告.pdf",
     "Paper/可以参考的文献/下颌升支骨折病例报告_3.pdf",
     "Paper/可以参考的文献/下颌骨骨折统计分析_5.pdf",
     "Paper/可以参考的文献/下颌骨骨折的管理.pdf",
@@ -173,18 +179,13 @@
     "Paper/可以参考的文献/下颌升支修复骨缺损.pdf",
     "Paper/可以参考的文献/下颌骨骨折统计分析_3.pdf",
     "Paper/可以参考的文献/下颌骨骨折统计分析_2.pdf",
-    "Paper/可以参考的文献/下颌骨骨折统计分析.pdf",
-    "Paper/可以参考的文献/下颌升支骨折病例报告_2.pdf",
     "Paper/需要查找的文献.md",
-    "Paper/毕业论文写作/工作流.md",
-    "Paper/毕业论文写作/正文.md",
     "Idea/基于人工智能的第三磨牙术前决策.md",
     "Code/Design/TheWorld/Crash/雪崩城市设计.md",
     "Linux/系统配置命令.md",
     "Linux/NeoVim/LazyVim/Pyright安装.md",
     "Linux/NeoVim/LazyVim/快捷指令.md",
     "Paper/格式转换.md",
-    "Paper/毕业论文写作/毕业论文大纲.md",
     "Paper/1.md",
     "Code/Design/TheWorld/Crash/用到的代码.md",
     "Code/Web/网站设计.md",
