@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7b72d185e025305c",
@@ -164,7 +165,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "9a2b6e2fe60e9f8e",
+  "active": "8d1cbc112613da94",
   "lastOpenFiles": [
     "Linux/NeoVim/LazyVim/Pyright安装.md",
     "Linux/NeoVim/LazyVim/快捷指令.md",

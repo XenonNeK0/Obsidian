@@ -1,10 +1,4 @@
 {
-  "obsidian-fullscreen-plugin:fullscreen-focus": [
-    {
-      "modifiers": [],
-      "key": "F12"
-    }
-  ],
   "workspaces:save": [
     {
       "modifiers": [],
