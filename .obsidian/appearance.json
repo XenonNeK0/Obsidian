@@ -1,5 +1,6 @@
 {
   "cssTheme": "Blue Topaz",
   "interfaceFontFamily": "FiraCode Nerd Font Mono",
-  "monospaceFontFamily": "FiraCode Nerd Font Mono"
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "showRibbon": false
 }

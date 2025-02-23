@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/NeoVim/LazyVim/Pyright安装.md",
+                "file": "Oral/Cariology And Endodontics/龋病/龋病的病因与发病机制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pyright安装"
+              "title": "龋病的病因与发病机制"
+            }
+          },
+          {
+            "id": "5c1431e4db32cf2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oral/Cariology And Endodontics/龋病/龋病的病因与发病机制.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "龋病的病因与发病机制"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -164,17 +180,18 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8d1cbc112613da94",
+  "active": "5c1431e4db32cf2b",
   "lastOpenFiles": [
+    "Linux/NeoVim/LazyVim/快捷指令.md",
+    "Oral/Cariology And Endodontics/龋病/龋病的病因与发病机制.md",
+    "DeepSeek/LazyVim.md",
+    "Oral/Cariology And Endodontics/龋病/龋病的病因与发病机制.md~",
+    "Linux/NeoVim/LazyVim/Pyright安装.md",
     "Linux/系统配置命令.md",
     "Linux/NeoVim/LazyVim/键盘映射设置.md",
-    "DeepSeek/LazyVim.md",
     "DeepSeek/意识上传与攻壳机动队.md",
-    "Linux/NeoVim/LazyVim/Pyright安装.md",
-    "Linux/NeoVim/LazyVim/快捷指令.md",
     "Paper/毕业论文写作/正文.md",
     "Paper/毕业论文写作/工作流.md",
-    "Oral/Cariology And Endodontics/龋病/龋病的病因与发病机制.md",
     "Paper/毕业论文写作/毕业论文大纲.md",
     "Paper/可以参考的文献/下颌升支创伤性囊肿病例报告.pdf",
     "Paper/可以参考的文献/下颌升支骨折病例报告_3.pdf",
@@ -185,7 +202,6 @@
     "Paper/可以参考的文献/下颌升支骨折合并锁合.pdf",
     "Paper/可以参考的文献/下颌升支修复骨缺损.pdf",
     "Paper/可以参考的文献/下颌骨骨折统计分析_3.pdf",
-    "Paper/可以参考的文献/下颌骨骨折统计分析_2.pdf",
     "Paper/需要查找的文献.md",
     "Idea/基于人工智能的第三磨牙术前决策.md",
     "Code/Design/TheWorld/Crash/雪崩城市设计.md",
