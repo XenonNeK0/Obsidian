@@ -39,13 +39,32 @@ This is first level
 | ?      |        |        |
 ## Inline Code 
 This is a code `print("Hello, world!")`
-## Code domain
+## Code block
 ```python
 print("Hello, world!")
 ```
 ## To do list
-- [ ] Learn english
-- [ ] Learn vim
+- [ ] Learn English
+- [x] Learn vim
+- [/] Learn vim
+- [-] Learn vim
+- [>] Learn vim
+- [<] Learn vim
+- [?] Learn vim
+- [!] Learn vim
+- [*] Learn vim
+- ["] Learn vim
+- [l] Learn vim
+- [b] Learn vim
+- [i] Learn vim
+- [I] Learn vim
+- [p] Learn vim
+- [c] Learn vim
+- [f] Learn vim
+- [k] Learn vim
+- [w] Learn vim
+- [u] Learn vim
+- [d] Learn vim
 ## Footnote
 Who am I[^1]
 [^1]: Xenon
@@ -63,4 +82,31 @@ Who am I[^1]
 <audio controls="controls" preload="none" src="https://www.ldoceonline.com/media/english/exaprons/p008-001803372.mp3?version=1.2.30"></audio>
 [[font]]
 
-
+## Style
+### note
+> [!note]
+### Summary & Abstract & Tldr
+> [!summary]
+----
+## Info & To do
+> [!info]
+----
+> [! todo]
+### Warning & Caution & Attention
+> [!warning]
+### Success & Check & Done
+> [!success]
+### Quote & Cite
+> [!quote]
+### Tip & Hint & Important
+> [!tip]
+### Question & Help & Faq
+> [!help]
+### Failure & Fail & Missing
+> [!failure]
+### Danger & error
+> [!danger]
+### Bug
+> [!bug]
+### Example
+> [!example]
