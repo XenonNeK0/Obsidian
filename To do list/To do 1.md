@@ -1,0 +1,2 @@
+- [ ] Learn how to use git and note it, [[Commends of git]] , and install *lazy-git*.
+- [ ] Learn how to use nvim, the important thing is learn *advanced keys* [[Advanced keys of nvim]]
