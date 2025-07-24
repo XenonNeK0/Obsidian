@@ -5,13 +5,13 @@
 	- A main idea
 		- Three subpoints
 			- Three arguements
-*In this step, I need to know the attitude.*
+> *In this step, I need to know the attitude.*
 
 2. Listening
 	- A main idea
 		- Three subpoints
 			- Three arguements
-*Generally opposed to the idea in reading*
+> *Generally opposed to the idea in reading*
 
 ### Summary
 1. Summary the **main idea** , **subpoints** and **arguements** in reading and listening
@@ -24,7 +24,7 @@
 	1. Opening paragraph
 	2. Three subpoints paragraphs
 
-### Template
+### Template detail
 
 #### Opening paragraph
 **Reading attitude**: 
@@ -39,4 +39,13 @@
 	3. Summary
 
 ##### Reading piont
+- The reading claims that ...
+> *If the listening refutes the main idea, it should write the main idea and subpoints*
+- The reading states that ... because ... 
+
 ##### Listening point
+- However, the listening argues that **Conterargument**. In detail,**Detail**.Thus,**Summary**.
+
+#### Full listening attitude template
+1. To begin with,the author holds the belief that **main idea**,since **arugements**.Nonetheless,the lecturer deems **conteraugrment**,To support his/her point,he/she clarifies that **detail**.Thus,**summary**
+2. Moreover, the passage contends that **main idea**,given that **arugements**.Nevertheless,

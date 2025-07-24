@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Toefl/Wtite/Independent Writing Task.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -198,8 +198,9 @@
   "active": "a1248bbed7d43547",
   "lastOpenFiles": [
     "Essay in Engish/Get start/Get start.md",
-    "To do list/Daily todo list.md",
     "Toefl/Wtite/Independent Writing Task.md",
+    "Toefl/Wtite/Group meeting.md",
+    "To do list/Daily todo list.md",
     "To do list/To do 1.md",
     "Write.md",
     "Toefl/Wtite",
@@ -233,7 +234,6 @@
     "Essay in Engish/www.bing.com.md",
     "Essay in Engish/www.bilibili.com.md",
     "Essay in Engish/~.md",
-    "Paper/需要查找的文献.md",
-    "DeepSeek/意识上传与攻壳机动队.md"
+    "Paper/需要查找的文献.md"
   ]
 }
