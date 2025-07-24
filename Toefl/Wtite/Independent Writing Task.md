@@ -34,7 +34,7 @@
 
 #### Subpoints paragraph
 - Reading point + listening point 
-	1. Conterargument 
+	1. Conterargument +  summary
 	2. Detail 
 	3. Summary
 
