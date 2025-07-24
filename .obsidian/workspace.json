@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95ad7506afd9e8a2",
+            "id": "dcb8e2042f5fc1f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do list/To do 1.md",
-                "mode": "preview",
+                "file": "To do list/Daily todo list.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do 1"
+              "title": "Daily todo list"
+            }
+          },
+          {
+            "id": "a1248bbed7d43547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toefl/Wtite/Independent Writing Task.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Independent Writing Task"
+            }
+          },
+          {
+            "id": "6b78f50629fdb434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essay in Engish/Get start/Get start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Get start"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,14 +195,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "95ad7506afd9e8a2",
+  "active": "a1248bbed7d43547",
   "lastOpenFiles": [
     "Essay in Engish/Get start/Get start.md",
+    "To do list/Daily todo list.md",
+    "Toefl/Wtite/Independent Writing Task.md",
     "To do list/To do 1.md",
-    "Essay in Engish/Get start/Image/movie.mp4",
-    "Linux/Operation system/Commends of git.md",
-    "Linux/Operation system/系统配置命令.md",
+    "Write.md",
+    "Toefl/Wtite",
+    "To do list/Write.md",
     "Linux/NeoVim/LazyVim/Advanced keys of nvim.md",
+    "Linux/Operation system/Commends of git.md",
+    "Essay in Engish/Get start/Image/movie.mp4",
+    "Linux/Operation system/系统配置命令.md",
     "Essay in Engish/Get start/font.md",
     "Programming/Regex",
     "To do list",
@@ -194,16 +228,12 @@
     "home/retr0/File/reddit.md",
     "Essay in Engish/Get start",
     "Essay in Engish/Get start/Image/cute-little-work-selfie-v0-paxvebm8yh9f1.jpg",
-    "Essay in Engish/Image/m2-res_640p.mp4",
     "Essay in Engish/comments.md",
     "Essay in Engish/Image/cute-little-work-selfie-v0-paxvebm8yh9f1.webp",
     "Essay in Engish/www.bing.com.md",
     "Essay in Engish/www.bilibili.com.md",
     "Essay in Engish/~.md",
     "Paper/需要查找的文献.md",
-    "DeepSeek/意识上传与攻壳机动队.md",
-    "Paper/毕业论文写作/工作流.md",
-    "Linux/NeoVim/LazyVim/键盘映射设置.md",
-    "Linux/NeoVim/LazyVim/快捷指令.md"
+    "DeepSeek/意识上传与攻壳机动队.md"
   ]
 }
