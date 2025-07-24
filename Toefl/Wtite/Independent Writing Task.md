@@ -4,17 +4,17 @@
 1. Reading
 	- A main idea
 		- Three subpoints
-			- Three arguements
+			- Three arguments
 > *In this step, I need to know the attitude.*
 
 2. Listening
 	- A main idea
 		- Three subpoints
-			- Three arguements
+			- Three arguments
 > *Generally opposed to the idea in reading*
 
 ### Summary
-1. Summary the **main idea** , **subpoints** and **arguements** in reading and listening
+1. Summary the **main idea** , **subpoints** and **arguments** in reading and listening
 2. What is the spcific **content of rebuttal?**
 
 ## Writing structure
@@ -47,5 +47,7 @@
 - However, the listening argues that **Conterargument**. In detail,**Detail**.Thus,**Summary**.
 
 #### Full listening attitude template
-1. To begin with,the author holds the belief that **main idea**,since **arugements**.Nonetheless,the lecturer deems **conteraugrment**,To support his/her point,he/she clarifies that **detail**.Thus,**summary**
-2. Moreover, the passage contends that **main idea**,given that **arugements**.Nevertheless,
+1. To begin with,the author holds the belief that **main idea**,since **arguments**.Nonetheless,the lecturer deems **conteraugrment**,To support his/her point,he/she clarifies that **detail**.Thus,**summary**
+2. Moreover, the passage contends that **main idea**,given that **arguments**.Nevertheless,the speaker augres that **arugment**.According to the lecture **detail**.Therefore,**summary**
+3. Finally,the reading puts forward a claim that **main idea**,because **arguments**.In contrast,the professor asserts **conterarugment**.In detial, **detail**.In fact,**summary**
+
