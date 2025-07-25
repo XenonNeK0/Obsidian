@@ -1,4 +1,5 @@
-- [ ] Complete the writing assignment.
+- [-] Complete the writing assignment.
 	- [-] Review the course contents.
-	- [ ] Organize note.
-	- [ ] Complete the exercise.
+	- [-] Organize note.
+	- [-] Complete the exercise.
+	

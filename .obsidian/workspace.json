@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcb8e2042f5fc1f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To do list/Daily todo list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily todo list"
-            }
-          },
-          {
-            "id": "a1248bbed7d43547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toefl/Wtite/Independent Writing Task.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Independent Writing Task"
-            }
-          },
-          {
             "id": "6b78f50629fdb434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay in Engish/Get start/Get start.md",
+                "file": "To do list/To do 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Get start"
+              "title": "To do 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7b72d185e025305c",
@@ -195,20 +165,24 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "a1248bbed7d43547",
+  "active": "6b78f50629fdb434",
   "lastOpenFiles": [
-    "Essay in Engish/Get start/Get start.md",
-    "Toefl/Wtite/Independent Writing Task.md",
-    "Toefl/Wtite/Group meeting.md",
-    "To do list/Daily todo list.md",
+    "Linux/Operation system/Terminal/Yazi.md",
     "To do list/To do 1.md",
+    "To do list/Daily todo list.md",
+    "Linux/Operation system/Terminal/Replace the terminal.md",
+    "Linux/Operation system/Git/Commends of git.md",
+    "Linux/Operation system/Git",
+    "Linux/Operation system/Terminal",
+    "Toefl/Wtite/Independent Writing Task.md",
+    "Linux/Operation system/系统配置命令.md",
+    "Essay in Engish/Get start/Get start.md",
+    "Toefl/Wtite/Group meeting.md",
     "Write.md",
     "Toefl/Wtite",
     "To do list/Write.md",
     "Linux/NeoVim/LazyVim/Advanced keys of nvim.md",
-    "Linux/Operation system/Commends of git.md",
     "Essay in Engish/Get start/Image/movie.mp4",
-    "Linux/Operation system/系统配置命令.md",
     "Essay in Engish/Get start/font.md",
     "Programming/Regex",
     "To do list",
@@ -224,16 +198,12 @@
     "Code/Web/网站设计.md",
     "Code/Design/TheWorld/Crash/雪崩城市设计.md",
     "Code/Design/TheWorld/Crash/用到的代码.md",
-    "Linux/Operation system",
     "Linux/NeoVim/LazyVim/Pyright安装.md",
     "home/retr0/File/reddit.md",
-    "Essay in Engish/Get start",
     "Essay in Engish/Get start/Image/cute-little-work-selfie-v0-paxvebm8yh9f1.jpg",
     "Essay in Engish/comments.md",
     "Essay in Engish/Image/cute-little-work-selfie-v0-paxvebm8yh9f1.webp",
     "Essay in Engish/www.bing.com.md",
-    "Essay in Engish/www.bilibili.com.md",
-    "Essay in Engish/~.md",
-    "Paper/需要查找的文献.md"
+    "Essay in Engish/www.bilibili.com.md"
   ]
 }

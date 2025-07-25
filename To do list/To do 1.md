@@ -2,7 +2,15 @@
 - [ ] Learn how to use nvim, the important thing is learn *advanced keys* [[Advanced keys of nvim]]
 - [-] Orgnize folders
 - [-] Learn markdown in obsidian
-- [ ] How to use the *Virtual Environment* of Python in Linux
-- [ ] Choose an alternative of neofetch
-	- [ ] Strat *fetch* when running terminal
-	- [ ] Select an *open image* for *fetch*
+- [-] How to use the *Virtual Environment* of Python in Linux
+- [-] Choose an alternative of neofetch
+	- [-] Strat *fetch* when running terminal
+	- [-] Select an *open image* for *fetch*
+- [-] Custumize kitty!
+	- [-] Runing kitty when started and excute `fastfetch`
+	- [-] Setting *full-screen*
+	- [-] Learning kitty *shortcut* keys
+- [ ] Custumize yazi!
+	- [-] Set the default IDE of python with *nvim*
+	- [ ] Add some plugins 
+- [ ] Learning *tmux* 

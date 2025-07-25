@@ -50,4 +50,3 @@
 1. To begin with,the author holds the belief that **main idea**,since **arguments**.Nonetheless,the lecturer deems **conteraugrment**,To support his/her point,he/she clarifies that **detail**.Thus,**summary**
 2. Moreover, the passage contends that **main idea**,given that **arguments**.Nevertheless,the speaker augres that **arugment**.According to the lecture **detail**.Therefore,**summary**
 3. Finally,the reading puts forward a claim that **main idea**,because **arguments**.In contrast,the professor asserts **conterarugment**.In detial, **detail**.In fact,**summary**
-
