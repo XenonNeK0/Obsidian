@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To do list/To do 1.md",
+                "file": "Programming/Django/Get started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To do 1"
+              "title": "Get started"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7b72d185e025305c",
@@ -167,11 +168,13 @@
   },
   "active": "6b78f50629fdb434",
   "lastOpenFiles": [
-    "Linux/Operation system/Terminal/Yazi.md",
     "To do list/To do 1.md",
+    "Programming/Django/Get started.md",
+    "Linux/Operation system/Git/Lazygit.md",
+    "Linux/Operation system/Git/Commends of git.md",
+    "Linux/Operation system/Terminal/Yazi.md",
     "To do list/Daily todo list.md",
     "Linux/Operation system/Terminal/Replace the terminal.md",
-    "Linux/Operation system/Git/Commends of git.md",
     "Linux/Operation system/Git",
     "Linux/Operation system/Terminal",
     "Toefl/Wtite/Independent Writing Task.md",
@@ -187,7 +190,7 @@
     "Programming/Regex",
     "To do list",
     "Essay in Engish/Get start/未命名.md",
-    "Programming/HTML",
+    "Programming/Django",
     "Toefl/Listening",
     "Toefl",
     "Paper/可以参考的文献/下颌升支骨折病例报告.pdf",
@@ -202,8 +205,6 @@
     "home/retr0/File/reddit.md",
     "Essay in Engish/Get start/Image/cute-little-work-selfie-v0-paxvebm8yh9f1.jpg",
     "Essay in Engish/comments.md",
-    "Essay in Engish/Image/cute-little-work-selfie-v0-paxvebm8yh9f1.webp",
-    "Essay in Engish/www.bing.com.md",
-    "Essay in Engish/www.bilibili.com.md"
+    "Essay in Engish/Image/cute-little-work-selfie-v0-paxvebm8yh9f1.webp"
   ]
 }
